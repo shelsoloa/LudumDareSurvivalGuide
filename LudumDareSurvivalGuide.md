@@ -4,20 +4,15 @@
 
 > "It's dangerous to go alone! Read this."
 
-Ludum Dare, the largest game jam on the planet, possibly in existence, should not be taken lightly. During this event, thousands of game developers from across the world congregate to attempt the unthinkable: build a game in less than 48 hours (or 72 hours for compo participators).
+Ludum Dare, the largest game jam on the planet, possibly in existence, should not be taken lightly. During this event, thousands of game developers from across the world congregate to attempt the unthinkable: build a game in less than 48 hours (or 72 if you're doing the compo).
 
 The rules are simple, but execution is not. Ludum Dare has rebuffed countless developers attempting to answer its challenge. Many of these developers likely could have reached their goal if only they knew this: a successful Ludum Dare submission involves more than what meets the eye.
-
-pick one
-> Skill & preparation; these are your life force, and this guide will fill you in as much as it can on the later.
-
-> Ludum Dare can be taken however you want, but if you want to push yourself and craft the best submission possible, you'll need this guide to help you out.
-
-> Below are tips for all ludum dare challengers, both newbies and veterans can pick up a tip or two here.
 
 # Part 1: Preparation
 
 > Treat the lead up to Ludum Dare how you would treat an important exam and set yourself up for success
+
+![](img_ludum_dare_loadout.png)
 
 ## 1.1 Adopt the mindset
 
@@ -54,21 +49,27 @@ Here's an example of what this might look like:
 
 This is one way to divide your time but you should tweak this to fit your specific needs; maybe you need to allocate time for art, or music, or UI, whatever the case, factor in what you see fit.
 
-> Tip: Set milestones for yourself to preview feature creep, for example: _"after Hour 24 I will not add any new features"_.  
+> Tip: Set milestones for yourself to prevent feature creep, for example: _"after the halfway mark I will not add any new features"_.  
 
 ## 1.3 Assemble your tools
 
-Decide what tools you will be using for Ludum Dare. Will you be using Unity or something simpler like Game Maker. It doesn't matter what tools you pick as long as you are __comfortable__ using them. Ensure that all your development tools are running, by starting them each, one-by-one, to make sure that none of the installs are corrupted. 
+> Select your fighter!
 
-Once you have all your tools installed and operational: make sure that you have the correct development libraries for these tools. Depending on your set-up this may mean installing additional requirements for things like "exporting your project", you __definitently__ don't want to be looking for an exporter during Submssion Hour.
+Decide what tools you'll be using for Ludum Dare. The specific tools don't matter as long as you're __comfortable__ with them and can develop quickly with them.
 
-Additionally you should sign up for whatever distribution channel you will be usings: itch.io, Newgrounds, Dropbox, etc.
+Test your tools, install required libraries, try to export a small project to make sure you have the right redistributables installed, you __definitely__ don't want to be looking for an exporter during Submission Hour.
+
+Sign up for whatever distribution channel you will be using: itch.io, Newgrounds, Dropbox, etc.
+
+> Tip: Test your tools by starting them one at a time, opening a recent project, and making sure everything is working correctly.
+
+> Note: itch.io has an [article on Ludum Dare](https://itch.io/blog/178/get-ready-for-ludum-dare) that contains some information specifically on submitting to the platform
 
 #### New tools?
 
-Although some developers use Ludum as an opportunity to try new tools, for the majority of this is a bad idea. Once again, the goal of Ludum Dare is to __finish__ a game, and that's much harder to do if you spend spend the first hours writing "Hello World."
+Some developers use Ludum Dare as an opportunity to try new tools, for the majority of us this is a bad idea. Once again, the goal of Ludum Dare is to __finish__ a game, and that's much harder to do if your learning a new tool at the same time.
 
-If you're set on using new/unfamiliar tools then get acquanted with them before Ludum Dare starts. 
+If you're set on using new/unfamiliar tools then get acquainted with them before Ludum Dare starts.
 
 #### Teams
 
@@ -76,68 +77,65 @@ If you're set on using new/unfamiliar tools then get acquanted with them before 
 
 If you’re working on a team this is the time to assemble your team members. Make sure you are all on the same page with the same versions of software, collaborative tools, and designated roles.
 
-> itch.io has an [article on Ludum Dare](https://itch.io/blog/178/get-ready-for-ludum-dare) that contains some information specifically on submitting to the platform
 
 
 ## 1.4 Plan additional content
 
-Many developers that attempt Ludum like to document the process. This is a great way to drum up some attention for your project or your brand. 
+Many developers that attempt Ludum Dare will document the process somehow. This is a great way to bring attention to your project or brand. 
 
 Here are some of the popular options:
 
-- Post mortem: Create a post mortem is a great way to investigate which tactics worked during Ludum Dare and which didn't.
+- Postmortem: create a postmortem write-up/video that walks through your experience during the entire Ludum Dare weekend. This is also a great way to investigate which tactics worked and which did not.
 
-- Timelapse Video: creating a video to show the entire development process. 
+- Time-lapse Video: create a video that shows a sped up version of you developing your project. Most time-lapses are a screen recording sped up to show the entire weekend in a few minutes.
 
-	> Tip, remember to [Assemble Your Tools](#1.1-assemble-your-tools). Download a timelapse creator and configure it beforehand.
+	> Tip: remember to [Assemble Your Tools](#) - download a time-lapse creator and configure it beforehand.
 
-- Stream: many devs like to stream their Ludum Dare development. There are even ludum-dare tags on twitch. 
+- Stream: hosting a live-stream showing you working on your Ludum Dare submission. This can be a great way to stay motivated too because you'll have an audience to keep entertained. There are Ludum Dare tags on twitch.
 	
 	> Note: be careful with this one, streaming can get distracting, especially when you interact with your audience.
 
-- Social media: Twitter buzzing during Ludum Dare with countless devs sharing their progress ([I'll be one of them](http://twitter.com/shelsoloa)). In general social media is a great way to share your Ludum Dare with others in the scene.
+- Social media: Twitter's buzzing during Ludum Dare with countless devs sharing their progress ([I'll be one of them](http://twitter.com/shelsoloa)). In general social media is a great way to share your Ludum Dare with others in the scene.
 
-Doing additional content is a bonus way of getting more out of your Ludum Dare, the method itself isn't important, just be sure to strategize so it won't get in the way of your main goal: finishing.
+Doing additional content is a way to get more out of your Ludum Dare, just be sure to strategize so it doesn't get in the way of your main goal: finishing.
 
 ## 1.5 Stock up
 
-You may have a chance to take a break and run to the store during Ludum, or the thought of leaving your workstation will give you heart palpitations, in either case, it's best to be prepared so that you won't HAVE to leave if you're not in an optimal position to do so.
+You may have a chance to take a break and run to the store during Ludum Dare, but you might not. This is definitely a decision nobody wants to be caught in: do I stop to get what I need or do I push through and do worse. It's best to just come prepared.
 
 Here's a list of things to stock up on before the event:
 
 - Groceries
 
-  First for a reason: don't neglect your human needs; Ludum Dare is fun but it's seriously not worth jeopardizing your long-term health.  Make sure to eat.
+  First for a reason: you're gonna have to eat and this will slow you dont. Eating out isn't an option if you're trying to maintain an efficient schedule, and skipping eating is not an option because Ludum Dare is not worth your long-term health.
 
-  I say groceries because going out to eat is really not in the option if you're trying to maintain an efficient schedule.
+  What foods should you eat? Look for foods that require little/no preparation but have some nutritional value (junk food can cause you to crash), or meal prep beforehand.
 
-  What foods should you eat? Look for foods that require little/no preparation but have some nutritional value (junk food could cause you to crash), or meal prep it beforehand
+  > Tip: Energy drinks can provide that much needed burst of energy during late hours. Just don't overdo it and enjoy responsibly.
 
-  > Tip: Energy drinks can provide that much needed burst of energy during late hours but don't overdo it!
+- Pen & Paper ~ if you do any form of hand-drawn/handwritten design then make sure you're stocked on paper and writing utensils.
 
-- Pen & Paper ~ if you do any form of hand-drawn/handwritten design then make sure you're stocked on paper and writing utensils. I
-
-  > Tip: Try doing your first design draft on paper __before__ you move on to programming and committing to anything
+  > Tip: Try doing your first design draft on paper __before__ you move on to programming.
 
 - Camera/Scanner ~ for capturing design done on paper. Not really necessary during the compo if you plan on posting afterwards, but if you want to post during the event this is an additional measure to consider.
 
 ## 1.6 Get into form
 
-In the days leading up to Ludum to get more rest than usual. You'll be on a tight schedule and rest can really disrupt a good flow, so get plenty of sleep beforehand, that way you can remain "fresh" for as long as possible.
-
-Additionally, get some exercise in, exercise will help promote a clear mind. A definite bonus when making quick decisions and solving bugs under pressure.
+In the days leading up to Ludum get more rest than usual so that you can better handle staying up a bit later than usual. Additionally, get some exercise in, exercise will help promote a clear mind, a bonus when making quick decisions and solving bugs under pressure.
 
 In short: be healthy and prepare for stress.
 
-# Part 2 ~ Execution (During the Jam)
+# Part 2: Execution (During the Jam)
+
+![](img_ludum_dare_crunch.jpg)
 
 ## 2.1 "Drink Water"
 
-Take care of yourself. Ludum is a marathon and you'll need to be on your game if you want to reap the best benefits from this weekend.
+Take care of yourself. Ludum is a marathon and you'll need to be on your game if you really want to challenge this weekend.
 
 - Sleep
  
-  You probably don't want to sleep for 12 hours but the truth is that you will need to sleep at some point. During a 48-hour period most people sleep for an average of 12-16 hours.
+  You probably don't want to sleep for 12 hours but the truth is that you'll need sleep at some point. During a 48-hour period most people sleep for an average of 12-16 hours.
 
   > Tip: if you've already finished your deep-work tasks then you can shorten your second sleep. You don't need to be "sharp" to tweak, build, and submit.
 
@@ -154,68 +152,65 @@ Take care of yourself. Ludum is a marathon and you'll need to be on your game if
 
 Remember that [Schedule](#) you made, well this is where you put it into effect.
 
-If you told yourself that 4 hours was enough design then you should stick to it. Ludum Dare is about finishing and that is where the real challenge lies, so focus on sticking to the schedule.
+If you told yourself that 4 hours was all the time you can budget for design then you should try your best to stick to that. Remember your goal is to finish, and you put a plan in place to help you do that.
 
-The only time you should be deviating from the schedule is when you are comfortably ahead of time, and even then, do so with great caution.
+Over-engineering is tempting but it is deadly this weekend. Don't do it. Stick to scope. Follow the plan.
 
-> Tip:
+> Note: You're never really "ahead" of time during Ludum Dare.
 
 ## 2.3 Don't start over
 
-After a certain amount of hours, you have to commit. Even if you think of a great new idea at Hour 20 you have to file it away because making a decent submission in 28 hours is far harder than making it in 48.
+At a certain point you have to commit. If you think of a great new idea half way through it's usually better to file that idea away for after Ludum Dare.
 
-Once again YMMV, there are probably some 10xer devs out there capable of completing redoing their project and still making something excellent, but overall this is a recipe of failure.
+If your project isn't working, and you have an __abundance__ of time, then try to pivot instead. Make tweaks to your game to get it to work, but don't scrap the idea all together.
 
-However, on the flip side of this, it is recommended to pivot. This is a valuable tool in the creative process, to see that your mechanic can undergo minor alterations to make it something better. This too has a deadline but far later in the project than a complete overhaul.
+You never know, maybe what you're missing is just a few lines of code in the right place.
 
 
 ## 2.4 Juice
 
-Juice is a big part of game feel and specifically refers to the *little* things that make your game _feel_ good. Many developers skip adding juice because they don't consider it important, but you can very easily tell the difference between a submission with juice and a submission without it.
+"Juice" is a big part of game feel, it refers to the *little* things that make your game _feel_ good. Many developers skip adding juice because they don't consider it important, but you can very easily tell the difference between a submission __with juice__ and a submission __without__ it.
 
-Menus, UI, instructions, sound effects, transitions, particles, etc; these are all forms of juice and they contribute to the experience of playing.
+Menus, UIs, instructions, sound effects, transitions, particle effects, etc; are all forms of juice and they contribute to the experience of playing.
 
-If you're looking for a way to set yourself apart from the pack then make this a focus. Even a small investment can reap large benefits when it comes to your game's overall package.
+If you're looking for a way to set yourself apart from the pack then make this a focus. Even a small investment can reap large benefits when it comes to your submissions overall package.
 
-> Tip: when you finish implementing the core mechanic start looking for ways to add juice so you're not scrambling at the end to fit it in.
+> Tip: when you finish implementing the core mechanic start looking for ways to add juice while adding features, so you're not scrambling at the end to fit it in.
 
-> Note: [here's a good article on adding Juice to your game](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)
+> Note: Here's [__THE__ video on adding juice](https://www.youtube.com/watch?v=Fy0aCDmgnxg) and a [bonus article on adding juice.](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)
 
 
 ## 2.5 Be mindful of the clock
 
-Keep in mind how much time you have left. 10 hours might seem like plenty of time but remember that you need time to debug, build, and submit. Suddenly that 10 hours is looking more like 5. There's nothing worse than reaching Submission Hour and realizing that you have to download a 10GB redistributable on an unreliable WiFi connection.
+Keep in mind how much time you have left. 10 hours might seem like plenty of time but remember all the tasks that you need to complete before Submission Hour hits. If you find that you're implementing or fixing features when the deadline starts to look then it's time to Cut. Cut. Cut.
 
+> Tip: Set a time in your Schedule to start cutting out any feature's that aren't working.
 
 ## 2.6 Chill
 
-Ludum Dare is a great experience, it's a lot of fun, and a great opportunity to hone your skills. Take a deep breath and let your project be what it's going to be.
+Enjoy yourself. Don't get too wrapped up in what you wanted your game to be and how you wanted your development to go. Most Ludum Dare's will not go how you expect and that's fine! Just keep riding it out.. 
 
-# Part 3 - After Ludum Dare
+And please drink some water.
+
+# Part 3: Completion
+
+![](img_ludum_dare_results.png)
 
 ## 3.1 Congratulate yourself
 
-You just made a game in 48 (or 72) hours! That is amazing. Take a second to be proud of yourself and what you accomplished.
+You just made a game in 48 (or 72) hours! That's amazing. Take a moment to be proud of yourself and what you accomplished.
 
-Personally, this is the reason I do Ludum Dare, every time whether it goes good or bad: if I finished I'm happy.
+__If you didn't finish__ then congratulate yourself anyway on attempting the challenge. Things can get in the way of having a successful Ludum Dare weekend, you gave it your best shot. 
 
-### If you didn't finish
+Whatever the outcome: reflect on the entire process. This was a learning opportunity and the next time you challenge Ludum Dare you'll be even more prepared.
 
-Still give yourself a pat on the back. Things can get in the way of having a successful Ludum Dare weekend, sometimes your game doesn't work, sometimes submission hours sneaks up on you, and sometimes your game just doesn't come together, whatever the reason, you gave it your best shot. Take this as a learning opportunity, next time you challenge Ludum Dare you'll be more prepared.
-
-## 3.2 Getting Noticed
+## 3.2 Getting your submission noticed
 
 Ludum Dare's sorting algorithm shows submissions based on the activity of their creator, so first of __if you want to get noticed you have to play, rate, and comment on other submissions__. Secondly, you should post your submission to forums and social media, not everyone is lurking around the Ludum Dare forums.
 
-## 3.3 "How will I be scored"
-
-To receive an _overall_ score you will need 20 ratings, minimum. You are scored in
-
 ## 3.3 What Else
 
-This is the time to share that additional [content you planned earlier](#plan-your-content). Even if you didn't finish you can still share a Post Mortem, perhaps even talking about the difficulties that led to your demise.
-
-Plus, if you're proud of your project it makes a great portfolio stuffer.
+This is the time to share that additional [content you planned earlier](#plan-your-content). Even if you didn't finish you can still share a postmortem and talk about the obstacles that caused your demise.
 
 # Wrapping Up!
 
@@ -223,6 +218,6 @@ Ludum Dare is a fun experience, and many of us become repeat challengers. You ca
 
 If you're prepared, you just might survive.
 
-~ shel soloa
+~ shel soloa [@shelsoloa](http://twitter.com/shelsoloa)
 
 > This is version 1 of the Ludum Dare Survival Guide. If you want to help make this guide better, then give me a hand and [open a PR on Github](http://github.com/shelsoloa/LudumDareSurvivalGuide)!
