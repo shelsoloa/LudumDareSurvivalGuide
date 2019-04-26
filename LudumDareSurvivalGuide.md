@@ -160,18 +160,27 @@ The only time you should be deviating from the schedule is when you are comforta
 
 > Tip:
 
-
-## 2.3 Make a full game
-
-The temptation is there to stick to what we know in Ludum Dare. Programmers submit placeholder riddled tech demos, artists submit pretty non-functional _games_. Try to break from the crowd and create a full experience: that means UI, sounds, etc. They don't have to be the best especially when they're not your strength, but they contribute a lot towards improving your submission and overall score
-
-## 2.4 Don't start over
+## 2.3 Don't start over
 
 After a certain amount of hours, you have to commit. Even if you think of a great new idea at Hour 20 you have to file it away because making a decent submission in 28 hours is far harder than making it in 48.
 
 Once again YMMV, there are probably some 10xer devs out there capable of completing redoing their project and still making something excellent, but overall this is a recipe of failure.
 
 However, on the flip side of this, it is recommended to pivot. This is a valuable tool in the creative process, to see that your mechanic can undergo minor alterations to make it something better. This too has a deadline but far later in the project than a complete overhaul.
+
+
+## 2.4 Juice
+
+Juice is a big part of game feel and specifically refers to the *little* things that make your game _feel_ good. Many developers skip adding juice because they don't consider it important, but you can very easily tell the difference between a submission with juice and a submission without it.
+
+Menus, UI, instructions, sound effects, transitions, particles, etc; these are all forms of juice and they contribute to the experience of playing.
+
+If you're looking for a way to set yourself apart from the pack then make this a focus. Even a small investment can reap large benefits when it comes to your game's overall package.
+
+> Tip: when you finish implementing the core mechanic start looking for ways to add juice so you're not scrambling at the end to fit it in.
+
+> Note: [here's a good article on adding Juice to your game](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)
+
 
 ## 2.5 Be mindful of the clock
 
