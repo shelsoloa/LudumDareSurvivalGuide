@@ -1,5 +1,7 @@
 # Ludum Dare Survival Guide
 
+![](img_ludum_dare_logo.png)
+
 > "It's dangerous to go alone! Read this."
 
 Ludum Dare, the largest game jam on the planet, possibly in existence, should not be taken lightly. During this event, thousands of game developers from across the world congregate to attempt the unthinkable: build a game in less than 48 hours (or 72 hours for compo participators).
